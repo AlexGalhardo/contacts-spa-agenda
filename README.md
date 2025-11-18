@@ -1,5 +1,5 @@
 <div align="center">
-    <h1 align="center"><a href="https://contacts.alexgalhardo.com" target="_blank">contacts.alexgalhardo.com</a></h1>
+    <h1 align="center"><a href="https://contacts-spa-agenda.vercel.app/" target="_blank">contacts-spa-agenda.vercel.app</a></h1>
 </div>
 
 ## Development Setup Local
@@ -7,13 +7,13 @@
 1. Clone repository
 
 ```bash
-git clone git@github.com:AlexGalhardo/contacts.alexgalhardo.com.git
+git clone git@github.com:AlexGalhardo/contacts-spa-agenda.git
 ```
 
 2. Enter folder
 
 ```bash
-cd contacts.alexgalhardo.com/
+cd contacts-spa-agenda/
 ```
 
 3. Install dependencies
@@ -34,4 +34,4 @@ bun run dev
 
 [MIT](http://opensource.org/licenses/MIT)
 
-Copyright (c) June 2025-present, Alex Galhardo
+Copyright (c) 2025-present, Alex Galhardo
